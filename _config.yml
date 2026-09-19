@@ -23,7 +23,7 @@ repository               : "elsacl9/elsacl9.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "id photo big.jpg"
   name             : "Elsa"
   pronouns         : "she/her"  
   bio              : "Theoretical Physics PhD student, interested in Holography and CFTs"
