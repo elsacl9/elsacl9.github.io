@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Analytical results for the C-angularity soft function at NNLO"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+permalink: /publication/29-Dec-2025-C-Angularity
+excerpt: 'Result of my Master's thesis at the University of Manchester'
+date: 2025-12-29
+venue: 'JHEP'
+slidesurl: 
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+bibtexurl: 
+citation: 
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract: We compute the soft function at NLO and NNLO for a one-parameter family of event shapes we call C-angularity. This family contains C-parameter as a specific choice of the parameter, in close analogy with how conventional angularity contains thrust as a special case. By construction, C-angularity and angularity coincide in the collinear limit such that the anomalous dimensions are equal. However, unlike angularity, C-angularity is a continuously differentiable function of the final state momenta, which makes the analytic calculation of the C-angularity soft function simpler. We obtain analytical results for the C-angularity soft function and anomalous dimension as an expansion in the C-angularity parameter a, to third and fourth order in a respectively. These expansions yield results that are accurate at the few per mille level for −1≤a<1.
